@@ -7,6 +7,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+.DS_Store
+.idea/
+.vscode/
 
 # Build results
 [Dd]ebug/
